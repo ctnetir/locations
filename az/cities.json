@@ -1,0 +1,520 @@
+[
+    {
+        "name": "Abşeron",
+        "cities": [
+            "Ceyranbatan",
+            "Digah",
+            "Güzdək",
+            "Xırdalan",
+            "Qobu",
+            "Saray"
+        ]
+    },
+    {
+        "name": "Ağdam",
+        "cities": [
+            "Ağdam"
+        ]
+    },
+    {
+        "name": "Ağdaş",
+        "cities": [
+            "Ağdaş"
+        ]
+    },
+    {
+        "name": "Ağcabədi",
+        "cities": [
+            "Ağcabədi",
+            "Avşar qəsəbəsi"
+        ]
+    },
+    {
+        "name": "Ağstafa",
+        "cities": [
+            "Ağstafa",
+            "Saloğlu qəsəbəsi",
+            "Vurğun qəsəbəsi"
+        ]
+    },
+    {
+        "name": "Ağsu",
+        "cities": [
+            "Ağsu"
+        ]
+    },
+    {
+        "name": "Astara",
+        "cities": [
+            "Astara"
+        ]
+    },
+    {
+        "name": "Babək",
+        "cities": [
+	     "Babək"
+]
+    },
+    {
+        "name": "Bakı",
+        "cities": [
+            "Əmircan",
+            "Badamdar",
+            "Bakıxanov",
+            "Bakı",
+            "Balaxanı",
+            "Biləcəri",
+            "Binəgədi",
+            "Binə kəndi",
+            "Buzovna",
+            "Hövsan",
+            "Xoçəsən",
+            "Korgöz",
+            "Lökbatan",
+            "Mərdəkan",
+            "Maştağa",
+            "Nardaran",
+            "Nizami Rayonu",
+            "Pirallahı",
+            "Puta",
+            "Qala",
+            "Qaraçuxur",
+            "Qobustan",
+            "Ramana",
+            "Sabunçu",
+            "Sanqaçal",
+            "Türkan",
+            "Yeni Suraxanı",
+            "Zabrat",
+            "Zirə"
+        ]
+    },
+    {
+        "name": "Balakan",
+        "cities": [
+            "Balakən",
+            "Qabaqçöl"
+        ]
+    },
+    {
+        "name": "Bərdə",
+        "cities": [
+            "Bərdə",
+            "Samuxlu"
+        ]
+    },
+    {
+        "name": "Beyləqan",
+        "cities": [
+            "Beyləqan",
+            "Birinci Aşıqlı",
+            "Dünyamalılar",
+            "Yuxarı Aran"
+        ]
+    },
+    {
+        "name": "Biləsuvar",
+        "cities": [
+            "Biləsuvar"
+        ]
+    },
+    {
+        "name": "Daşkəsən",
+        "cities": [
+            "Yuxarı-Daşkəsən"
+        ]
+    },
+    {
+        "name": "Füzuli",
+        "cities": [
+            "Füzuli",
+            "Horadiz"
+        ]
+    },
+    {
+        "name": "Gənca",
+        "cities": [
+            "Gəncə"
+        ]
+    },
+    {
+        "name": "Gədəbəy",
+        "cities": [
+            "Arıqdam",
+            "Arıqıran",
+            "Böyük Qaramurad",
+            "Gədəbəy",
+            "Novosaratovka"
+        ]
+    },
+    {
+        "name": "Qobustan",
+        "cities": [
+            "Qobustan"
+        ]
+    },
+    {
+        "name": "Goranboy",
+        "cities": [
+            "Goranboy",
+            "Qızılhacılı"
+        ]
+    },
+    {
+        "name": "Göyçay",
+        "cities": [
+            "Göyçay"
+        ]
+    },
+    {
+        "name": "Göygöl",
+        "cities": [
+            "Göygöl"
+        ]
+    },
+    {
+        "name": "Hacıqabul",
+        "cities": [
+            "Hacıqabul",
+            "Muğan"
+        ]
+    },
+    {
+        "name": "Imişli",
+        "cities": [
+            "Imişli"
+        ]
+    },
+    {
+        "name": "Ismayıllı",
+        "cities": [
+            "Basqal",
+            "İsmayıllı"
+        ]
+    },
+    {
+        "name": "Cabrayıl",
+        "cities": [
+            "Cəbrayıl"
+        ]
+    },
+    {
+        "name": "Cəlilabad",
+        "cities": [
+            "Cəlilabad"
+            
+        ]
+    },
+    {
+        "name": "Culfa",
+        "cities": ["Culfa"]
+    },
+    {
+        "name": "Kəlbəcər",
+        "cities": [
+            "Kəlbəcər"
+        ]
+    },
+    {
+        "name": "Kəngərli",
+        "cities": []
+    },
+    {
+        "name": "Xaçmaz",
+        "cities": [
+            "Xaçmaz",
+            "Xudat"
+        ]
+    },
+    {
+        "name": "Xizi",
+        "cities": [
+            "Altıağac",
+            "Xızı",
+            "Giləzi",
+            "Şuraabad"
+        ]
+    },
+    {
+        "name": "Xocalı",
+        "cities": [
+            "Əsgəran",
+            "Xocalı"
+        ]
+    },
+    {
+        "name": "Kürdəmir",
+        "cities": [
+            "Kürdərmir"
+        ]
+    },
+    {
+        "name": "Laçın",
+        "cities": [
+            "Laçın"
+        ]
+    },
+    {
+        "name": "Lənkəran",
+        "cities": ["Lənkəran"]
+    },
+    {
+        "name": "Lerik",
+        "cities": [
+            "Lerik"
+        ]
+    },
+    {
+        "name": "Xocavənd",
+        "cities": [
+            "Hadrut",
+            "Qırmızı Bazar"
+        ]
+    },
+    {
+        "name": "Masallı",
+        "cities": [
+            "Boradigah",
+            "Masallı"
+        ]
+    },
+    {
+        "name": "Mingəçevir",
+        "cities": [
+            "Mingəçevir"
+        ]
+    },
+    {
+        "name": "Naxçıvan",
+        "cities": [
+            "Cəhri",
+            "Çalxanqala",
+            "Culfa",
+            "Dəstə",
+            "Heydərabad",
+            "Culfa Rayon",
+            "Naxçıvan",
+            "Oğlanqala",
+            "Ordubad",
+            "Qıvraq",
+            "Şahbuz",
+            "Sədərək",
+            "Şahbuz Rayon",
+            "Şərur",
+            "Tazakend"
+        ]
+    },
+    {
+        "name": "Neftçala",
+        "cities": [
+            "Neftçala",
+            "Bankə",
+            "Xıllı"
+        ]
+    },
+    {
+        "name": "Oğuz",
+        "cities": [
+            "Oğuz"
+        ]
+    },
+    {
+        "name": "Ordubad",
+        "cities": []
+    },
+    {
+        "name": "Qəbələ",
+        "cities": [
+            "Qəbələ"
+        ]
+    },
+    {
+        "name": "Qax",
+        "cities": [
+            "Çinarlı",
+            "Qax",
+            "Qax İngiloy",
+            "Qaxbaş"
+        ]
+    },
+    {
+        "name": "Qazax",
+        "cities": [
+            "Qazax"
+        ]
+    },
+    {
+        "name": "Quba",
+        "cities": [
+            "Hacıhüseynli",
+            "Quba"
+        ]
+    },
+    {
+        "name": "Qubadli",
+        "cities": [
+            "Qubadlı"
+        ]
+    },
+    {
+        "name": "Qusar",
+        "cities": [
+            "Qusar",
+            "Samur"
+        ]
+    },
+    {
+        "name": "Saatlı",
+        "cities": [
+            "Əhmədbəyli",
+            "Saatlı"
+        ]
+    },
+    {
+        "name": "Sabirabad",
+        "cities": [
+            "Sabirabad"
+        ]
+    },
+    {
+        "name": "Sədərək",
+        "cities": []
+    },
+    {
+        "name": "Salyan",
+        "cities": [
+            "Salyan"
+        ]
+    },
+    {
+        "name": "Samux",
+        "cities": [
+
+            "Samux"
+        ]
+    },
+    {
+        "name": "Şabran",
+        "cities": [
+            "Şabran"
+        ]
+    },
+    {
+        "name": "Şahbuz",
+        "cities": []
+    },
+    {
+        "name": "Şəki",
+        "cities": [
+            "Şəki"
+        ]
+    },
+    {
+        "name": "Şamaxi",
+        "cities": [
+            "Şamaxi"
+        ]
+    },
+    {
+        "name": "Şəmkir",
+        "cities": [
+            "Şəmkir"
+        ]
+    },
+    {
+        "name": "Şərur",
+        "cities": []
+    },
+    {
+        "name": "Şirvan",
+        "cities": [
+            "Şirvan"
+        ]
+    },
+    {
+        "name": "Şuşa",
+        "cities": [
+            "Şuşa"
+        ]
+    },
+    {
+        "name": "Siyəzən",
+        "cities": [
+            "Siyəzən"
+        ]
+    },
+    {
+        "name": "Sumqayıt",
+        "cities": [
+            "Corat",
+            "Hacı Zeynalabdin",
+            "Sumqayıt"
+        ]
+    },
+    {
+        "name": "Tərtər",
+        "cities": [
+            "Ağdərə",
+            "Tərtər"
+        ]
+    },
+    {
+        "name": "Tovuz",
+        "cities": [
+            "Çatax",
+            "Çobansığnaq",
+            "Dondar Quşçu",
+            "Qaraxanlı",
+            "Tovuz",
+            "Yanıqlı"
+        ]
+    },
+    {
+        "name": "Ucar",
+        "cities": [
+            "Ucar"
+        ]
+    },
+    {
+        "name": "Yardımlı",
+        "cities": [
+            "Yardımlı"
+        ]
+    },
+    {
+        "name": "Yevlax",
+        "cities": [
+            "Yevlax"
+        ]
+    },
+    {
+        "name": "Yevlax",
+        "cities": [
+            "Aran",
+            "Qaramanlı"
+        ]
+    },
+    {
+        "name": "Zangilan",
+        "cities": [
+            "Mincivan",
+            "Zangilan"
+        ]
+    },
+    {
+        "name": "Zaqatala",
+        "cities": [
+            "Aliabad",
+            "Faldarlı",
+            "Mamrux",
+            "Qandax",
+            "Zaqatala"
+        ]
+    },
+    {
+        "name": "Zərdab",
+        "cities": [
+            "Zərdab"
+        ]
+    }
+]
